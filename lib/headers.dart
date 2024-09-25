@@ -1,0 +1,10 @@
+export 'package:quotes_application/pages/home_page/home_page.dart';
+export 'package:quotes_application/pages/splash_screen/splash_screen.dart';
+export 'package:quotes_application/utils/routes/routes_utils.dart';
+export 'package:quotes_application/utils/font_utils.dart';
+export 'package:quotes_application/pages/detail_page/detail_page.dart';
+export 'package:quotes_application/modals/quotes_models.dart';
+export 'package:flutter/material.dart';
+export 'package:google_fonts/google_fonts.dart';
+export 'package:quotes_application/utils/quotes_utils.dart';
+export 'package:quotes_application/pages/category_page/category_page.dart';
